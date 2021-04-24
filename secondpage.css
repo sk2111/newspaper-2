@@ -1,0 +1,27 @@
+.sub-main-1-con {
+  display: flex;
+  flex-direction: row;
+  margin-top: 20px;
+}
+.sub-main-1-con article {
+  width: 70%;
+  padding-right: 40px;
+}
+
+.sub-main-1-con .gray-back {
+  width: 30%;
+}
+
+.sec-divide-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.sec-left-container,
+.sec-right-container {
+  width: 50%;
+}
+
+.sec-left-container{
+    margin-right:20px;
+}

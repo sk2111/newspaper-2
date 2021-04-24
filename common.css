@@ -94,7 +94,9 @@ article h2 {
   right: 10px;
   bottom: 10px;
 }
-
+.main-heading{
+  font-size: 2rem;
+}
 
 @media only screen and (max-width: 400px) {
   html{
